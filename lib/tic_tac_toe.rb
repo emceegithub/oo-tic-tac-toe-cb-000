@@ -157,9 +157,5 @@ class TicTacToe
       #do nothing
     end
   end
-  
-  
-  
-  
-  
+
 end
